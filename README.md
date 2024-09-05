@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Setare</h1>
-<h3 align="center">A passionate Backend developer and Blockchain enthusiast</h3>
+<h3 align="center">A passionate Backend developer and Blockchain and AI enthusiast</h3>
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=ghasemiTaheri&icon=0&color=11)](https://visitcount.itsvg.in)
@@ -7,12 +7,12 @@
 </div>
 
 ## 💫 About Me
-🔭 I'm currently working on teaching Python and Django to technology enthusiasts<br>👯 I’m looking to collaborate on blockchain and web3 projects<br>🌱 I’m currently learning web3<br>📫 How to reach me <b><a href="mailto:mghasemi13786@gmail.com">mghasemi13786@gmail.com</a></b>
+🔭 I'm currently working on teaching Python and Django to technology enthusiasts<br>👯 I’m looking to collaborate on blockchain and web3 projects<br>🌱 I’m currently learning web3<br>📫 How to reach me <b><a href="mailto:setare.behzadi@gmail.com">setare.behzadi@gmail.com</a></b>
 
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mojtaba-ghasemi-taheri) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/setare-behzadi-a2259188) 
 
 ## 💻 Tech Stack
 ![PYTHON](https://img.shields.io/badge/Python-%23430098.svg?style=for-the-badge&logo=python&logoColor=white) 
