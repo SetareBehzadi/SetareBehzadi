@@ -32,7 +32,6 @@ I am a backend web developer with over 10 years of experience, specializing in P
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Databases
@@ -49,6 +48,13 @@ I am a backend web developer with over 10 years of experience, specializing in P
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 🚀 Work Experience
+**Backend Developer at Diginext**  
+*Agust 2024 - now*  
+- Developing Iran Central Insurance’s APIs and supporting last online application
+- Using Django as frameworks, Redis for caching, and Oracle for the database
+- Using repository pattern and decorator pattern to implement 
+
+
 **Backend Developer at Diginext**  
 *April 2023 - April 2024*  
 - Developed a Seller Academy including Community, Blog, and LMS sections.
@@ -88,5 +94,3 @@ I am a backend web developer with over 10 years of experience, specializing in P
 - Interested in sports, mountain climbing, and attending programming and psychology seminars.
 
 ---
-
-این نسخه شامل تمامی اطلاعاتی است که در رزومه شما بود و برای نمایش در GitHub بهینه‌سازی شده است.
