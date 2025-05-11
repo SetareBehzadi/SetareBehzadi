@@ -11,8 +11,6 @@
 I am a backend web developer with over 10 years of experience, specializing in Python, PHP, and mastering frameworks like Laravel and Django. I have extensive expertise in working with databases such as PostgreSQL, MySQL, and MongoDB, and in developing RESTful APIs.
 
 - 🔭 I'm currently focused on teaching Python and Django to technology enthusiasts.
-- 👯 I’m looking to collaborate on blockchain and web3 projects.
-- 🌱 I’m currently diving deeper into web3 development.
 - 📫 Reach me at **[setare.behzadi@gmail.com](mailto:setare.behzadi@gmail.com)**
 
 ## 🌐 Connect with Me
@@ -45,7 +43,6 @@ I am a backend web developer with over 10 years of experience, specializing in P
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 🚀 Work Experience
 **Backend Developer at Diginext**  
